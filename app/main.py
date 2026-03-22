@@ -1,5 +1,5 @@
 from house import House
-from app.logger import log_action
+from logger import log_action
 
 
 houses = []
